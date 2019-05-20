@@ -21,4 +21,6 @@ if [ -d "$HOME/bin" ] ; then
     PATH="$HOME/bin:$PATH"
 fi
 
+. "$HOME/.config/ssh-agent-init"
+
 . "$HOME/.config/alias"
