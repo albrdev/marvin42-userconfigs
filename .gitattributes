@@ -2,3 +2,4 @@
 .gitattributes text eol=lf
 README.[mM][dD] text eol=lf
 LICENSE.[tT][xX][tT] text eol=lf
+Makefile text eol=lf
